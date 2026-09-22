@@ -1,13 +1,14 @@
 <div align="center">
 
-# Salut, je suis Brice Sandjong 👋
+# Brice Sandjong
 
-### 🛡️ Élève-Ingénieur Cybersécurité | R&D & Cryptographie | DevSecOps
+### 🛡️ Ingénieur Cybersécurité | Développeur Full-Stack & DevSecOps
 
-**En dernière année de Master (Bac+5) à JUNIA ISEN**, passionné par l'analyse de robustesse algorithmique, les mathématiques appliquées et la cryptographie.
+**Élève-ingénieur en dernière année de Master (Bac+5) à JUNIA ISEN.**
+Spécialisé dans la conception d'architectures logicielles sécurisées, le développement backend et l'automatisation des infrastructures.
 
-🎯 **Recherche un stage de fin d'études (6 mois) en R&D / Cybersécurité**
-📍 Rennes · Paris · Lille &nbsp;|&nbsp; 📅 À partir de Mars 2027
+🎯 **Recherche un stage de fin d'études (6 mois) en Ingénierie Logicielle / DevSecOps**
+📍 Paris · Rennes · Lille &nbsp;|&nbsp; 📅 À partir de Mars 2027
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bricesandjong-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bricesandjong)
 [![Email](https://img.shields.io/badge/Email-Me_contacter-D14836?style=flat&logo=gmail&logoColor=white)](mailto:brice-verges.sandjong-mbiada@student.junia.com)
@@ -17,34 +18,52 @@
 
 ---
 
-## 🔬 Domaines d'expertise
+## ⚙️ Domaines de compétences
 
-| Recherche Appliquée & Algo | Cryptographie Avancée | Ingénierie & DevSecOps |
+| 💻 Développement Full-Stack | 🚀 DevSecOps & Cloud | 🔐 Cybersécurité Applicative |
 |---|---|---|
-| Évaluation de schémas, analyse de complexité, modélisation mathématique | PRNG (LCG, Mersenne Twister), RSA, ECC | Intégration CI/CD, Analyse de logs (Zeek, ELK), Burp Suite |
+| Architectures API REST, Microservices, optimisation de bases de données, développement frontend asynchrone | Intégration et déploiement continus (CI/CD), conteneurisation, automatisation d'infrastructures | Sécurité intégrée (DevSecOps), authentification, OWASP, analyse de logs et monitoring |
 
-## 💻 Stack Technique & Outils
+## 🛠️ Stack Technique
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+**Backend & Langages :**
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-**Outils spécialisés :** Z3 Theorem Prover · Burp Suite · Zeek · ELK Stack
+**Frontend :**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+
+**DevOps, Bases de données & Outils :**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
+**Expertise spécialisée :** SonarQube · Elastic Stack (ELK) · Zeek · Burp Suite · Z3 Theorem Prover
 
 ---
 
-## 🚀 Projet à la une : Benchmarking Cryptographique
+## 🚀 Projets & Réalisations
 
-### [🎲 PRNG Arena](https://github.com/BriceSandjong/PRNG-Arena)
-> Développement expérimental en **C++** pour évaluer la robustesse des générateurs pseudo-aléatoires (LCG, Mersenne Twister). L'outil modélise mathématiquement et confronte les algorithmes à des solveurs de contraintes (**Z3**) pour identifier les failles logiques et évaluer la complexité de calcul.
+### 🎵 [Spotifake](https://github.com/BriceSandjong/spotifake) (Java/Spring Boot)
+- Conception Full-Stack d'une application de streaming sécurisée.
+- Configuration stricte des endpoints et développement d'une architecture backend robuste.
+
+### 🛡️ Threat Hunting & SOC (Monitoring)
+- Déploiement d'une infrastructure d'analyse et de monitoring de logs réseau via l'**Elastic Stack (ELK)** et **Zeek**.
+- Création de scénarios d'alertes complexes pour l'identification de menaces.
+
+### 🎲 [PRNG Arena](https://github.com/BriceSandjong/PRNG-Arena) (C++)
+- Développement d'un outil d'évaluation expérimentale de la robustesse d'algorithmes (LCG, Mersenne Twister).
+- Analyse de la complexité de calcul et optimisation des performances.
 
 ---
 
 <div align="center">
-
-📫 **Discutons !** N'hésitez pas à me contacter pour toute opportunité de stage en R&D scientifique ou collaboration technique.
-
+<i>Ouvert aux opportunités de stage. N'hésitez pas à me contacter via LinkedIn ou par email pour échanger.</i>
 </div>
